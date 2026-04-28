@@ -1,6 +1,6 @@
 # Project Description
 ## Overview
-This repository contains the source code for a Food Delivery Mobile Application developed using Java and Android Studio. The application was created as part of the COMP2008 module coursework at Curtin University in 2022. It's designed to offer a platform for users to browse multiple local restaurants, explore their menus, and order food items conveniently from their mobile devices.
+This repository, PROJECT, was done by Peter Ndambuki and Augustine Mwangi. It's designed to offer a platform for users to browse multiple local restaurants, explore their menus, and order food items conveniently from their mobile devices.
 
 ## Purpose
 The Food Delivery Mobile Application acts as a customized platform for restaurants to connect directly with their customers without relying on external delivery services like Uber Eats or Menulog. It offers an intuitive interface for customers to view available restaurants, explore menus, and place food orders hassle-free.
